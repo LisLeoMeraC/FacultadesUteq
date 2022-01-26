@@ -3,18 +3,18 @@
         {
         "facultad": "FACULTAD DE CIENCIAS DE LA INGENIERÍA",
         "decano": "Ing. Washington Alberto Chiriboga Casanova, M.Sc.",
-        "correo": "facultadci@uteq.edu.ec",
+        "email": "facultadci@uteq.edu.ec",
         "logo": "https://www.uteq.edu.ec/images/about/logo_fci.jpg",
-        "latitud": "-1.0127483249837483",
-        "longitud": "-79.46992170315418"        
+        "ubicacion": "Campus Central Av. Quito km. 1 1/2 vía a Santo Domingo de los Tsáchilas",
+        "tel": "(+593) 5 3702-220 Ext. 8052"        
         },
         {
         "facultad": "FACULTAD DE CIENCIAS DE LA INGENIERÍA",
         "decano": "Ing. Washington Alberto Chiriboga Casanova, M.Sc.",
-        "correo": "facultadci@uteq.edu.ec",
+        "email": "facultadci@uteq.edu.ec",
         "logo": "https://www.uteq.edu.ec/images/about/logo_fci.jpg",
-        "latitud": "-1.0127483249837483",
-        "longitud": "-79.46992170315418"        
+        "ubicacion": "Campus Central Av. Quito km. 1 1/2 vía a Santo Domingo de los Tsáchilas",
+        "tel": "(+593) 5 3702-220 Ext. 8052        
         }
     ]
 }
