@@ -35,6 +35,34 @@
         "latitud": "-1.080324",
         "longitud": "-79.501444",
         "tel": "(+593) 5 3702-220 Ext. 8025"  
+        },
+        {
+        "facultad": "Facultad de Ciencias Empresariales",
+        "decano": "Ing. Mariela Susana Andrade Arias, PhD.",
+        "email": "facultadce@uteq.edu.ec",
+        "logo": "https://www.uteq.edu.ec/images/about/logo_fce.jpg",
+        "latitud": "-1.012721",
+        "longitud": "-79.469510",
+        "tel": "(+593) 5 3702-220 Ext. 8038"  
+        },
+        {
+        "facultad": "Facultad de Ciencias Sociales, Económicas y Financieras",
+        "decano": "Econ. Nivaldo Apolonides Vera Valdiviezo, M.Sc.",
+        "email": "fcsef@uteq.edu.ec",
+        "logo": "https://scontent.fuio1-1.fna.fbcdn.net/v/t39.30808-6/270225860_105938625296854_8745925011639879509_n.png?_nc_cat=109&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=VL6Xxf6f3KMAX82yZ3W&_nc_ht=scontent.fuio1-1.fna&oh=00_AT_UluvcDhS2L5vYIisME2RQMAF1E_0zxih3VfAwMZgHRg&oe=61F63475",
+        "latitud": "-1.012748",
+        "longitud": "-79.469671",
+        "tel": "(+593) 5 3702-220 Ext. 8001"  
+        },
+         {
+        "facultad": "Facultad de Ciencias de la Salud",
+        "decano": "Lcda. Inés de la Luz Bajaña Mendieta, M.Sc.",
+        "email": " fcs@uteq.edu.ec",
+        "logo": "https://www.uteq.edu.ec/images/about/logo_enf1.jpg",
+        "latitud": "-1.012590",
+        "longitud": "-79.469641",
+        "tel": "(+593) 5 3702-220 Ext. 8001"  
         }
+        
     ]
 }
