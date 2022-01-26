@@ -1,0 +1,42 @@
+[
+    {
+        "facultad": "FACULTAD DE CIENCIAS DE LA INGENIERÍA",
+        "decano": "Ing. Washington Alberto Chiriboga Casanova, M.Sc.",
+        "correo": "facultadci@uteq.edu.ec",
+        "logo": "https://www.uteq.edu.ec/images/about/logo_fci.jpg",
+        "latitud": "-1.0127483249837483",
+        "longitud": "-79.46992170315418"
+    },
+    {
+        "facultad": "FACULTAD DE CIENCIAS AGROPECUARIAS",
+        "decano": "Ing. Leonardo Gonzalo Matute, M.Sc.",
+        "correo": "decanato_agropecuarias@uteq.edu.ec",
+        "logo": "https://www.uteq.edu.ec/images/about/logo_fcamb.jpg",
+        "latitud": "-1.0813192887103051",
+        "longitud": "-79.50277754685834"
+    },
+    {
+        "facultad": "FACULTAD DE CIENCIAS EMPRESARIALES",
+        "decano": "Ing. Mariela Susana Andrade Arias, PhD.",
+        "correo": "facultadce@uteq.edu.ec",
+        "logo": "https://www.uteq.edu.ec/images/about/logo_fce.jpg",
+        "latitud": "-1.0126239095229466",
+        "longitud": "-79.4692552357703"
+    },
+    {
+        "facultad": "FACULTAD DE CIENCIAS DE LA INDUSTRIA Y LA PRODUCCIÓN",
+        "decano": "Ing. Sonnia Esther Barzola Miranda, M.Sc.",
+        "correo": "fcip@uteq.edu.ec",
+        "logo": "https://3.bp.blogspot.com/-fYlOzJNk0DA/WoSbHJXGzcI/AAAAAAAAA7E/SGC6Hp2qlcEDCbks59AykK3-8EYeSDeEQCLcBGAs/s1600/Imagen1.jpg",
+        "latitud": "-1.0798302100648467",
+        "longitud": "-79.50235497122888"
+    },
+    {
+        "facultad": "UNIDAD DE POSGRADO",
+        "decano": "Ing. Roque Vivas, M.Sc.",
+        "correo": "posgrado@uteq.edu.ec",
+        "logo": "https://www.uteq.edu.ec/images/about/logo_pos.jpg",
+        "latitud": "-1.01278315011",
+        "longitud": "-79.4692618009"
+    }
+]
