@@ -1,6 +1,5 @@
 {
-    "Facultades":
-    [
+    "Facultades":[
       {
         "facultad": "Facultad de Ciencias de la Ingeniería",
         "decano": "Ing. Washington Alberto Chiriboga Casanova, M.Sc.",
@@ -8,5 +7,5 @@
         "logo": "https://www.uteq.edu.ec/images/about/logo_fci.jpg",
         "ubicacion": "Campus Central, Av. Quito km. 1 1/2 vía a Santo Domingo de los Tsáchilas"
        },   
-     ]
+    ]
 }
