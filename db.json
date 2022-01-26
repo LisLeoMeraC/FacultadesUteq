@@ -7,7 +7,14 @@
         "logo": "https://www.uteq.edu.ec/images/about/logo_fci.jpg",
         "latitud": "-1.0127483249837483",
         "longitud": "-79.46992170315418"        
-        }  
+        },
+        {
+        "facultad": "FACULTAD DE CIENCIAS DE LA INGENIERÍA",
+        "decano": "Ing. Washington Alberto Chiriboga Casanova, M.Sc.",
+        "correo": "facultadci@uteq.edu.ec",
+        "logo": "https://www.uteq.edu.ec/images/about/logo_fci.jpg",
+        "latitud": "-1.0127483249837483",
+        "longitud": "-79.46992170315418"        
+        }
     ]
-    
 }
