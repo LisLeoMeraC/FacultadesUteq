@@ -1,27 +1,10 @@
-{
-  "files":
-    { "id": "1456", 
-      "Name": "El juego de todos", 
-      "description": "Conocer algo más de lo que ya sabes sobre Futbol", 
-      "Date": "12-25-2010", 
-      "Author":"Gobierno Federal MX", 
-      "URL": "https://conadeb.conade.gob.mx/Documentos/Publicaciones/Futbol.pdf"
-    },
-      
-    { "id": "8522", 
-      "Name": "Reglamento del juego", 
-      "description": "Conocer todas las reglas del fútbol", 
-      "Date": "10-01-1980",
-      "Author":"Steven G. Mandis", 
-      "URL": "https://fvf-bff.org/pdf/escolar/Reglamento%20f-11%20escolar%2010-11(2).pdf"
-    },
-      
-    { "id": "7569", 
-        "Name": "La fórmula Real", 
-        "description": "Luchar hasta el ultimo minuto del juego", 
-        "Date": "07-24-2009",
-        "Author":"Eskola Kirola", 
-        "URL": "https://www.planetadelibros.com/libros_contenido_extra/34/33733_La_formula_REAL_MADRID.pdf"
+[
+    {
+        "facultad": "FACULTAD DE CIENCIAS DE LA INGENIERÍA",
+        "decano": "Ing. Washington Alberto Chiriboga Casanova, M.Sc.",
+        "correo": "facultadci@uteq.edu.ec",
+        "logo": "https://www.uteq.edu.ec/images/about/logo_fci.jpg",
+        "latitud": "-1.0127483249837483",
+        "longitud": "-79.46992170315418"
     }
- 
-}
+]
